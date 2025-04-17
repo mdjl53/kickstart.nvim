@@ -1,0 +1,3 @@
+
+init.lua merge=ours
+lua/custom/themes/** merge=ours
